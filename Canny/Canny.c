@@ -86,7 +86,6 @@ char **argv;
         //__________________________________________________________________
 
         // Part 1:
-        // TODO: Changes
         // Second derivative needs to be changed to first derivative
         
         for (p = -mr; p <= mr; p++)
@@ -106,7 +105,6 @@ char **argv;
         {
           for (j = mr; j <= 255 - mr; j++)
           {
-            
             sum1 = 0;
             sum2 = 0;
 

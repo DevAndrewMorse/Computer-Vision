@@ -1,7 +1,7 @@
 # Computer-Vision
 The following assignments involve the use of Sobel and Canny filters.
 
-Sobel:
+Sobel: https://www.youtube.com/watch?v=uihBwtPIBxM
 
 First make sure both Sobel.c and garb34.pgm are both in the same directory and ```cd``` to the proper directory if needed in terminal. In terminal run (Unix) ```gcc -o Sobel Sobel.c```. Once compiled then run the .exe in terminal the following command: ```./Sobel garb34.pgm mag.pgm low.pgm high.pgm 30 70```. Once executed, the result will be the three .pgm outputs: ```mag.pgm```, ```low.pgm```, ```high.pgm```. 
 
